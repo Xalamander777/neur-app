@@ -1,6 +1,6 @@
 {
   "name": "neur-app",
-  "version": "0.3.4",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "vercel-build": "NODE_OPTIONS=--max_old_space_size=2048 pnpm npx prisma generate && next build",

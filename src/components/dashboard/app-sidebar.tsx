@@ -36,7 +36,7 @@ const AppSidebarHeader = () => {
           <div className="flex items-center gap-1.5 group-data-[collapsible=icon]:hidden">
             {IS_BETA && (
               <span className="select-none rounded-md bg-primary/90 px-1.5 py-0.5 text-xs text-primary-foreground">
-                BETA
+                STABLE
               </span>
             )}
             <span className="select-none rounded-md bg-muted px-1.5 py-0.5 text-xs text-muted-foreground">
