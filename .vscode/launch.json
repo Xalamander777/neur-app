@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
       {
-        "name": "neur.sh: debug server-side",
+        "name": "neur.studio: debug server-side",
         "port": 9230,
         "request": "attach",
         "skipFiles": [
@@ -16,7 +16,7 @@
       {
         "type": "chrome",
         "request": "launch",
-        "name": "neur.sh: debug client-side",
+        "name": "neur.studio: debug client-side",
         "url": "http://localhost:3001",
         "webRoot": "${workspaceFolder}",
         "sourceMapPathOverrides": {
@@ -26,8 +26,8 @@
     ],
     "compounds": [
       {
-        "name": "neur.sh: debug full stack",
-        "configurations": ["neur.sh: debug client-side", "neur.sh: debug server-side"],
+        "name": "neur.studio: debug full stack",
+        "configurations": ["neur.studio: debug client-side", "neur.studio: debug server-side"],
         "stopAll": true
       }
     ]

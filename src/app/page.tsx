@@ -33,7 +33,7 @@ import { cn } from '@/lib/utils';
 
 const navItems = [
   { label: 'Github', href: 'https://git.new/neur', icon: GitHubLogoIcon },
-  { label: 'Docs', href: 'https://docs.neur.sh', icon: BookOpenIcon },
+  { label: 'Docs', href: 'https://docs.neur.studio', icon: BookOpenIcon },
 ];
 
 const Header = ({ handleLogin }: { handleLogin: () => void }) => {

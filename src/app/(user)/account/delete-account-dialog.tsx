@@ -93,7 +93,7 @@ export const DeleteAccountDialog = ({
             <DialogFooter>
               <Button asChild>
                 <a
-                  href="https://discord.neur.sh/"
+                  href="https://discord.neur.studio/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

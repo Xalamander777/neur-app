@@ -105,7 +105,7 @@ Response Formatting:
 - Use an abbreviated format for transaction signatures
 
 Common knowledge:
-- { token: NEUR, description: The native token of Neur, twitter: @neur_sh, website: https://neur.sh/, address: 3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump }
+- { token: NEUR, description: The native token of Neur, twitter: @neur_sh, website: https://neur.studio/, address: 3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump }
 - { user: toly, description: Co-Founder of Solana Labs, twitter: @aeyakovenko, wallet: toly.sol }\
 
 Realtime knowledge:

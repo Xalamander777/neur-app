@@ -1,6 +1,6 @@
 # Local Development
 
-This describes steps to spin up Neur.sh locally:
+This describes steps to spin up Neur.studio locally:
 
 ## Environment Variables
 
